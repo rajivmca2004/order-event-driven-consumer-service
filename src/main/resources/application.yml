@@ -11,9 +11,6 @@ spring:
         event-consumer:
           destination: order_topic
           contentType: application/json
-        event-producer:
-          destination: order_topic
-          contentType: application/json
 server:
   port : 9002
 management:
