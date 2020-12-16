@@ -1,4 +1,4 @@
-package com.online.store.demo.ordereventdriven.stream;
+package com.online.store.demo.ordereventdriven.model;
 
 public class Message {
 	private Integer id;
